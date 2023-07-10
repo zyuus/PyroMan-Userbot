@@ -23,8 +23,8 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 - Generate Session via <a href="https://t.me/StringManRobot">Telegram String Generation Bot</a>
 ## 🏷 Support
 
-- Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
-- Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang PyroMan-Userbot.
+- Follow Channel [@aesthgallery](https://t.me/aesthgallery) untuk info gambar anime
+- Gabung Group [@worldsekaigroup](https://t.me/worldsekaigroup) untuk info lengkap tentang anime
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
